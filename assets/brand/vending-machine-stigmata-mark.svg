@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">VENDING MACHINE STIGMATA mark</title>
+  <desc id="desc">A geometric vending machine icon with a cold glow and a small star-shaped hand mark.</desc>
+  <rect width="256" height="256" rx="48" fill="#07090d"/>
+  <rect x="54" y="28" width="148" height="200" rx="18" fill="#101923" stroke="#d5eef5" stroke-width="8"/>
+  <rect x="74" y="50" width="84" height="100" rx="8" fill="#dff7ff"/>
+  <path d="M82 70h68M82 92h68M82 114h68M82 136h68" stroke="#2887a4" stroke-width="7" stroke-linecap="round"/>
+  <circle cx="92" cy="78" r="6" fill="#7fd8ea"/>
+  <circle cx="120" cy="78" r="6" fill="#7fd8ea"/>
+  <circle cx="146" cy="78" r="6" fill="#d44b5d"/>
+  <circle cx="92" cy="122" r="6" fill="#d44b5d"/>
+  <circle cx="120" cy="122" r="6" fill="#7fd8ea"/>
+  <circle cx="146" cy="122" r="6" fill="#7fd8ea"/>
+  <rect x="166" y="58" width="18" height="18" rx="4" fill="#d44b5d"/>
+  <rect x="166" y="86" width="18" height="18" rx="4" fill="#7fd8ea"/>
+  <rect x="166" y="118" width="18" height="34" rx="5" fill="#243746" stroke="#d5eef5" stroke-width="5"/>
+  <rect x="78" y="166" width="100" height="36" rx="8" fill="#182735" stroke="#7fd8ea" stroke-width="5"/>
+  <path d="M128 168l6 15 16 6-16 6-6 15-6-15-16-6 16-6z" fill="#f7fbff"/>
+  <path d="M54 216h148" stroke="#d44b5d" stroke-width="8" stroke-linecap="round"/>
+</svg>
