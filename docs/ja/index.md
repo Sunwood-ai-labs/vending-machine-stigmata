@@ -7,7 +7,7 @@ import { withBase } from 'vitepress'
 </script>
 
 <section class="vm-hero">
-  <img class="vm-hero__image" :src="withBase('/assets/hero/vending-machine-stigmata_mv-loop_title_16x9_1920x1080.png')" alt="VENDING MACHINE STIGMATA title visual" />
+  <img class="vm-hero__image" :src="withBase('/assets/cover/vending-machine-stigmata_cd-jacket_retail-title_1x1.png')" alt="VENDING MACHINE STIGMATA CD jacket visual" />
   <div class="vm-hero__content">
     <p class="vm-kicker">AI music release asset kit</p>
     <h1>VENDING MACHINE STIGMATA</h1>
