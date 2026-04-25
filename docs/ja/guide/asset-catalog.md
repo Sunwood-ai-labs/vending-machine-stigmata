@@ -22,6 +22,7 @@ title: アセットカタログ
 | 音源マスター | `VENDING MACHINE STIGMATA.mp3` | 現在のリポジトリ内音源。 |
 | 完成 visualizer | `output/video/VENDING MACHINE STIGMATA_visualizer.mp4` | Git LFS で管理する大容量レンダー。 |
 | 生成元クリップ | `video/*.mp4` | モーション検討時に生成したクリップ。 |
+| 公式動画投稿 | <https://x.com/hAru_mAki_ch/status/2047866042853282151> | リリース投稿として使う公開動画 URL。 |
 
 ## Git LFS
 

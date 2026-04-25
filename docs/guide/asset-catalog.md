@@ -22,6 +22,7 @@ The complete file inventory lives in the repository-level [ASSET_CATALOG.md](htt
 | Audio master | `VENDING MACHINE STIGMATA.mp3` | Current repository audio master. |
 | Finished visualizer | `output/video/VENDING MACHINE STIGMATA_visualizer.mp4` | Large render stored with Git LFS. |
 | Source clips | `video/*.mp4` | Generated clips used during motion exploration. |
+| Official video post | <https://x.com/hAru_mAki_ch/status/2047866042853282151> | Public video URL for the release post. |
 
 ## Git LFS
 

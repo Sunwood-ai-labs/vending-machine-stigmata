@@ -8,7 +8,8 @@
   <p>
     <a href="README.md">English</a> |
     <a href="README.ja.md">日本語</a> |
-    <a href="https://sunwood-ai-labs.github.io/vending-machine-stigmata/">Docs site</a>
+    <a href="https://sunwood-ai-labs.github.io/vending-machine-stigmata/">Docs site</a> |
+    <a href="https://x.com/hAru_mAki_ch/status/2047866042853282151">Video post</a>
   </p>
   <p>
     <a href="https://github.com/Sunwood-ai-labs/vending-machine-stigmata/actions/workflows/validate.yml"><img alt="Validate" src="https://github.com/Sunwood-ai-labs/vending-machine-stigmata/actions/workflows/validate.yml/badge.svg" /></a>
@@ -30,6 +31,7 @@ The repository is organized for archival review, public presentation, and handof
 - MV loop title visuals and background stills under [output/imagegen](output/imagegen).
 - The audio master at [VENDING MACHINE STIGMATA.mp3](<VENDING MACHINE STIGMATA.mp3>).
 - Rendered and generated video files under [output/video](output/video) and [video](video).
+- Official video post: <https://x.com/hAru_mAki_ch/status/2047866042853282151>.
 - A prompt and generation log in [GENERATED_ASSETS_AND_PROMPTS.md](GENERATED_ASSETS_AND_PROMPTS.md).
 - A curated file inventory in [ASSET_CATALOG.md](ASSET_CATALOG.md).
 - A bilingual VitePress documentation site under [docs](docs).

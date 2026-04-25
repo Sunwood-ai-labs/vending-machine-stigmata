@@ -15,6 +15,7 @@ import { withBase } from 'vitepress'
     <div class="vm-actions">
       <a :href="withBase('/guide/asset-catalog')">Open catalog</a>
       <a :href="withBase('/guide/workflow')">Production workflow</a>
+      <a href="https://x.com/hAru_mAki_ch/status/2047866042853282151">Watch video</a>
       <a href="https://github.com/Sunwood-ai-labs/vending-machine-stigmata">GitHub</a>
     </div>
     <div class="vm-language">
@@ -36,7 +37,7 @@ import { withBase } from 'vitepress'
   </div>
   <div class="vm-tile">
     <h3>Audio and Video</h3>
-    <p>Audio master, visualizer export, and generated source clips tracked with Git LFS.</p>
+    <p>Audio master, visualizer export, generated source clips, and the official X video post.</p>
   </div>
   <div class="vm-tile">
     <h3>Prompt Archive</h3>

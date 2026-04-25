@@ -8,7 +8,8 @@
   <p>
     <a href="README.md">English</a> |
     <a href="README.ja.md">日本語</a> |
-    <a href="https://sunwood-ai-labs.github.io/vending-machine-stigmata/">Docs site</a>
+    <a href="https://sunwood-ai-labs.github.io/vending-machine-stigmata/">Docs site</a> |
+    <a href="https://x.com/hAru_mAki_ch/status/2047866042853282151">動画投稿</a>
   </p>
   <p>
     <a href="https://github.com/Sunwood-ai-labs/vending-machine-stigmata/actions/workflows/validate.yml"><img alt="Validate" src="https://github.com/Sunwood-ai-labs/vending-machine-stigmata/actions/workflows/validate.yml/badge.svg" /></a>
@@ -29,6 +30,7 @@
 - [output/imagegen](output/imagegen) 配下の CD ジャケット画像と MV 用静止画。
 - [VENDING MACHINE STIGMATA.mp3](<VENDING MACHINE STIGMATA.mp3>) の音源ファイル。
 - [output/video](output/video) と [video](video) 配下の映像ファイル。
+- 公式動画投稿: <https://x.com/hAru_mAki_ch/status/2047866042853282151>。
 - [GENERATED_ASSETS_AND_PROMPTS.md](GENERATED_ASSETS_AND_PROMPTS.md) の生成プロンプト・制作メモ。
 - [ASSET_CATALOG.md](ASSET_CATALOG.md) の整理済みアセット一覧。
 - [docs](docs) 配下の日本語/英語 VitePress ドキュメント。

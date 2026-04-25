@@ -15,6 +15,7 @@ import { withBase } from 'vitepress'
     <div class="vm-actions">
       <a :href="withBase('/ja/guide/asset-catalog')">カタログを見る</a>
       <a :href="withBase('/ja/guide/workflow')">制作フロー</a>
+      <a href="https://x.com/hAru_mAki_ch/status/2047866042853282151">動画を見る</a>
       <a href="https://github.com/Sunwood-ai-labs/vending-machine-stigmata">GitHub</a>
     </div>
     <div class="vm-language">
@@ -36,7 +37,7 @@ import { withBase } from 'vitepress'
   </div>
   <div class="vm-tile">
     <h3>音源と映像</h3>
-    <p>音源、完成 visualizer、生成元クリップを Git LFS で管理します。</p>
+    <p>音源、完成 visualizer、生成元クリップ、公式 X 動画投稿をまとめています。</p>
   </div>
   <div class="vm-tile">
     <h3>プロンプト記録</h3>

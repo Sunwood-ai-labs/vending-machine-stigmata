@@ -30,6 +30,7 @@ This catalog lists the repository assets that are intended for archival review, 
 | Generated clip 2256 | 17.97 MiB | [video/kling_20260425_作品_Create_a_p_2256_0.mp4](video/kling_20260425_作品_Create_a_p_2256_0.mp4) |
 | Generated clip 2356 | 10.94 MiB | [video/kling_20260425_作品_Create_a_p_2356_0.mp4](video/kling_20260425_作品_Create_a_p_2356_0.mp4) |
 | Generated clip 2405 | 15.56 MiB | [video/kling_20260425_作品_Create_a_p_2405_0.mp4](video/kling_20260425_作品_Create_a_p_2405_0.mp4) |
+| Official video post | external | <https://x.com/hAru_mAki_ch/status/2047866042853282151> |
 
 ## Production Notes
 
