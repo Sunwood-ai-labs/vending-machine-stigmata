@@ -1,4 +1,7 @@
 <div align="center">
+  <img src="output/imagegen/vending-machine-stigmata_mv-loop_title_16x9_1920x1080.png" alt="VENDING MACHINE STIGMATA header image" width="100%" />
+  <br />
+  <br />
   <img src="assets/brand/vending-machine-stigmata-mark.svg" alt="VENDING MACHINE STIGMATA mark" width="96" />
   <h1>VENDING MACHINE STIGMATA</h1>
   <p><strong>AYANO YUKIMURA のゴシック・ダークエレクトロ J-pop リリース用アセットキットです。</strong></p>
@@ -13,7 +16,6 @@
     <img alt="Git LFS" src="https://img.shields.io/badge/assets-Git%20LFS-2f74c0" />
     <img alt="Docs: VitePress" src="https://img.shields.io/badge/docs-VitePress-42b883" />
   </p>
-  <img src="output/imagegen/vending-machine-stigmata_mv-loop_title_16x9_1920x1080.png" alt="VENDING MACHINE STIGMATA music video title visual" />
 </div>
 
 ## ✨ 概要
